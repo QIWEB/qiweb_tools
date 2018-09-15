@@ -1,0 +1,95 @@
+ssr://bm9kZS10dy1oaXQua3lzc3JjZC5wdzoxMjE1NjpvcmlnaW46Y2hhY2hhMjAtaWV0ZjpwbGFpbjpWVU5zYjNWa1FERXlNdy8_b2Jmc3BhcmFtPSZyZW1hcmtzPVZGYyZncm91cD1RbVZ6ZEE
+ssr://MjA1LjIwOS4xNzEuOTY6MTIxNTY6b3JpZ2luOmNoYWNoYTIwLWlldGY6cGxhaW46VlVOc2IzVmtRREV5TXcvP29iZnNwYXJhbT0mcmVtYXJrcz1WVk0mZ3JvdXA9UW1WemRB
+ssr://bm9kZS1oa2ctcGhoa3Qua3lzc3JjZC5wdzoxMjE1NjpvcmlnaW46Y2hhY2hhMjAtaWV0ZjpwbGFpbjpWVU5zYjNWa1FERXlNdy8_b2Jmc3BhcmFtPSZyZW1hcmtzPVNFcyZncm91cD1RbVZ6ZEE
+{
+	"configs" : [
+		{
+			"remarks" : "TW",
+			"id" : "4F15CC03C5C40EC00675C83F07C60305",
+			"server" : "node-tw-hit.kyssrcd.pw",
+			"server_port" : 12156,
+			"server_udp_port" : 0,
+			"password" : "UCloud@123",
+			"method" : "chacha20-ietf",
+			"protocol" : "origin",
+			"protocolparam" : "",
+			"obfs" : "plain",
+			"obfsparam" : "",
+			"remarks_base64" : "VFc",
+			"group" : "Best",
+			"enable" : true,
+			"udp_over_tcp" : false
+		},
+		{
+			"remarks" : "US",
+			"id" : "728552A56F440E0D76C65A015AD320F8",
+			"server" : "205.209.171.96",
+			"server_port" : 12156,
+			"server_udp_port" : 0,
+			"password" : "UCloud@123",
+			"method" : "chacha20-ietf",
+			"protocol" : "origin",
+			"protocolparam" : "",
+			"obfs" : "plain",
+			"obfsparam" : "",
+			"remarks_base64" : "VVM",
+			"group" : "Best",
+			"enable" : true,
+			"udp_over_tcp" : false
+		},
+		{
+			"remarks" : "HK",
+			"id" : "E6D7B27AE8551A95F7B2049ED36FCAFF",
+			"server" : "node-hkg-phhkt.kyssrcd.pw",
+			"server_port" : 12156,
+			"server_udp_port" : 0,
+			"password" : "UCloud@123",
+			"method" : "chacha20-ietf",
+			"protocol" : "origin",
+			"protocolparam" : "",
+			"obfs" : "plain",
+			"obfsparam" : "",
+			"remarks_base64" : "SEs",
+			"group" : "Best",
+			"enable" : true,
+			"udp_over_tcp" : false
+		}
+	],
+	"index" : 0,
+	"random" : false,
+	"sysProxyMode" : 3,
+	"shareOverLan" : false,
+	"localPort" : 1080,
+	"localAuthPassword" : "YYiW57PPFVPOgGjO_k9w",
+	"dnsServer" : "",
+	"reconnectTimes" : 2,
+	"randomAlgorithm" : 3,
+	"randomInGroup" : false,
+	"TTL" : 0,
+	"connectTimeout" : 5,
+	"proxyRuleMode" : 0,
+	"proxyEnable" : false,
+	"pacDirectGoProxy" : false,
+	"proxyType" : 0,
+	"proxyHost" : null,
+	"proxyPort" : 0,
+	"proxyAuthUser" : null,
+	"proxyAuthPass" : null,
+	"proxyUserAgent" : null,
+	"authUser" : null,
+	"authPass" : null,
+	"autoBan" : false,
+	"sameHostForSameTarget" : false,
+	"keepVisitTime" : 180,
+	"isHideTips" : true,
+	"nodeFeedAutoUpdate" : true,
+	"serverSubscribes" : [
+
+	],
+	"token" : {
+
+	},
+	"portMap" : {
+
+	}
+}
